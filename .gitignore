@@ -17,3 +17,5 @@
 
 # macOS metadata
 .DS_Store
+
+.pybuild/

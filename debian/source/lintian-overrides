@@ -1,0 +1,5 @@
+python-sortedcontainers source: file-without-copyright-information
+python-sortedcontainers source: no-debian-changes
+python-sortedcontainers source: source-contains-prebuilt-windows-binary
+python-sortedcontainers source: source-is-missing
+python-sortedcontainers source: source-package-encodes-python-version
